@@ -4,4 +4,8 @@ public class Student {
     private String st_name;
     private String st_class;
 
+    public void print() {
+        System.out.println("test test ");
+    }
+
 }
